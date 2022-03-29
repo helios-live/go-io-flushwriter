@@ -1,4 +1,4 @@
-package flusher // import go.ideatocode.tech/io/flushwriter
+package flushwriter // import go.ideatocode.tech/io/flushwriter
 
 import (
 	"io"
